@@ -60,7 +60,11 @@ This improves usability and ensures faster analysis.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard-1.png)
+![Dashboard Preview](dashboard-2.png)
+![Dashboard Preview](dashboard-3.png)
+![Dashboard Preview](dashboard-4.png)
+![Dashboard Preview](dashboard-5.png)
 
 ---
 
